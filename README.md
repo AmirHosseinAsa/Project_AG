@@ -16,6 +16,7 @@ Logo analysis: If you provide a logo, the AI can assess its effectiveness in ter
 
 Level design inspiration: Generate creative environments and gameplay elements for your own level design, drawing inspiration from successful games and adjusting them to your vision.
 
+
 ## Target data sources:
 
 YouTube video content and comments: Explore gaming channels and comment sections to gauge audience reactions and trending topics.
@@ -31,5 +32,7 @@ Trending Twitch games: Analyze the games generating the most viewership and enga
 Twitter hashtags related to games: Track trending hashtags and discussions on Twitter to identify popular games and community sentiments.
 
 TikTok: Explore trending game-related content on TikTok to discover viral trends and emerging genres.
+
+
 
 By utilizing these resources and the AI's analytical capabilities, you can gain valuable insights into the gaming landscape and gain inspiration for your own game development projects.
