@@ -36,3 +36,8 @@ TikTok: Explore trending game-related content on TikTok to discover viral trends
 
 
 By utilizing these resources and the AI's analytical capabilities, you can gain valuable insights into the gaming landscape and gain inspiration for your own game development projects.
+
+
+## Setup
+
+venv\Scripts\activate
