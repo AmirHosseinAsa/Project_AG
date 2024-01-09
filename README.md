@@ -41,3 +41,17 @@ By utilizing these resources and the AI's analytical capabilities, you can gain 
 ## Setup
 
 venv\Scripts\activate
+
+
+## TODOS:
+* Gather data from Steam (Reviews, Description, Icon) - Done
+* Gather data from 4chan game dev forums
+* Analyze tech trending games
+* Twitter trend hashtags related to games
+* Read game dev-related YouTube video content
+* Read Reddit topics and comments
+* Get current trend games and topics in social media
+* Train AI based on gathered data
+* Generate imagination images and text
+* List why these games became successful
+
