@@ -45,7 +45,7 @@ venv\Scripts\activate
 
 ## TODOS:
 * Gather data from Steam (Reviews, Description, Icon) - Done
-* Gather data from 4chan game dev forums
+* Gather data from pasta archives fandom forums (Creepy Pasta, https://pasta-archives.fandom.com/wiki/Special:Search)
 * Analyze tech trending games
 * Twitter trend hashtags related to games
 * Read game dev-related YouTube video content
